@@ -1,0 +1,9 @@
+First add product to stock by pressing 'S' to go to "Stock" menu and choose "Purchase New Product" to add product
+in "Purchase New Product" fill in the details of your product.
+
+Next when you sale your product, simply choose "Sale Product" then enter the product ID and enter bill number, customer name, quantity
+then press "Enter".
+
+If you want to check bill, then go to "Bill" menu and enter bill number.
+
+If you want to check the profit, then go to "Report" menu and choose Profit report.
