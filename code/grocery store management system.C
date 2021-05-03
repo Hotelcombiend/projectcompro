@@ -2030,7 +2030,7 @@ void medi_entry()
 			fprintf(ptrp_r,"%s %s %s %d %.2f %.2f %d %d %d\n",p_r.medi_id,p_r.medir_name,p_r.supp_name,p_r.qty,p_r.rate,p_r.total,p_r.sDay,p_r.sMonth,p_r.sYear);
 			system("cls");
 			gotoxy(20,20);
-			printf("Medicine Added sucessfully!!!!!!");
+			printf("Product Added sucessfully!!!!!!");
 			gotoxy(20,25);
 			printf("More entries  [y/n]");
 			ch=toupper(getche());
