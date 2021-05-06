@@ -1023,7 +1023,7 @@ void remainder()
 			gotoxy(10,45);
 			//textcolor(RED);
 			printf("%s : ",temp.medi_name);
-			printf("Quantity of this medicine is less then 10");
+			printf("Quantity of this product is less then 10");
 		}
 	}
 }
