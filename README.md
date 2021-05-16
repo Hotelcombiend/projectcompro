@@ -1,8 +1,8 @@
 # projectcompro
-# compro63-Grocery store
+# Compro63-Grocery store
 Computer Programming Project KMITL Semester 2/2020 1st Year
 ---
-![Main Menu](https://cdn.discordapp.com/attachments/834644991733268511/838344846409596928/unknown.png)
+![Main Menu](https://cdn.discordapp.com/attachments/650901328087744514/843520110748237824/w1.jpg)
 ## ที่มา
 ## วัตถุประสงค์
 1. ใช้ในการจัดเก็บข้อมูลการติดต่อส่วนตัว
@@ -12,21 +12,21 @@ Computer Programming Project KMITL Semester 2/2020 1st Year
 5. เมื่อทำงานเสร็จสิ้นเเล้วสามารถนําความรู้ที่ได้รับมาไปต่อยอดต่อได้
 ## ประโยชน์ที่คาดว่าจะได้รับ
 ## เว็บไซต์
-[Go to our webiste](https://silly-hugle-2e1591.netlify.app)
+[Go to our webiste](https://forcompro.web.app/)
 
 ## วิดีโอนำเสนอ
-[Video Presentation](https://www.youtube.com/watch?v=NDe-3nXUXG4)
+[Video Presentation](https://www.youtube.com/watch?v=7i1HdxRv-WQ)
 ## โปสเตอร์
-[Poster (download)](https://github.com/63070158/compro63-Contact_Management/blob/main/poster_contact.jpg)
+[Poster (download)](https://github.com/Hotelcombiend/projectcompro/blob/main/webjaa/images/poster.png)
 ---
-![Poster](https://github.com/63070158/compro63-Contact_Management/blob/main/poster_contact.jpg)
+![Poster](https://github.com/Hotelcombiend/projectcompro/blob/main/webjaa/images/poster.png)
 ---
 สมาชิก
 ---
 
 | รหัสนักศึกษา | ชื่อ - นามสกุล | Github |
 | :--------: | :--------: | :---------: |
-|   62070009   |   นายกิตติพจน์ กิตสุภาพสิริกุล   |   [ทิ้งเพื่อนไปคอลกับสาว](https://github.com/kkit2001)   |
-|   63070158   |   นายวิศัลย์ สุวรรณรัตน์   |  [Visal](https://github.com/63070158)   |
-|   63070165   |   นายศราวุธ อุนารัตน์   |   [เกมหงิง](https://github.com/Sarawutgame)   |
-|   63070181   |   นายอธิชาติ ชูศรี   |   [Athichart](https://github.com/Athichart)   |
+|   63070106   |   นายปัณณธร กระแสร์วิก   |   [pannathorn](https://github.com/63070106)   |
+|   63070116   |   นายพิชญ์รัฐ ไพบูลย์ธรรม   |  [pitcharath](https://github.com/pitcharath)   |
+|   63070133   |   นายภาธร วัฒน์ประกายรัตน์   |   [bhathorn](https://github.com/tanwasmadeclouds)   |
+|   63070141   |   นายยศนันทน์ กลัดแขก   |   [yotsanan](https://github.com/Hotelcombiend)   |
