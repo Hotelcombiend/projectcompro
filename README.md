@@ -11,7 +11,7 @@ Computer Programming Project KMITL Semester 2/2020 1st Year
     ทางผู้จัดทำหวังว่าในโปรแกรมจะมีฟีเจอร์ไม่ว่าจะเป็น การเพิ่ม/ลบ หรือ เช็คสต๊อกสินค้า 
     และยังสามารถคำณวนเงินแล้วทำใบเสร็จได้ นอกจากนี้ยังสามารถสรุปการขาย/กำไรในแต่ละวันได้อีกด้วย
 ## เว็บไซต์
-[Go to our webiste](https://forcompro.web.app/)
+[Go to our website](https://forcompro.web.app/)
 
 ## วิดีโอนำเสนอ
 [Video Presentation](https://www.youtube.com/watch?v=7i1HdxRv-WQ)
